@@ -1,4 +1,6 @@
 # Regression
+![](https://github.com/fahadmhd/Linear-and-Multiple-Regression-and-with-Snap-ML/blob/main/regression.png)
+
 There are many parts of this project. 
 
 ### Train a Regression Tree
